@@ -1,0 +1,11 @@
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\bin\Debug\TesteImposto.Testes.dll
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\bin\Debug\TesteImposto.Testes.pdb
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\bin\Debug\Imposto.Core.dll
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\bin\Debug\Imposto.Core.pdb
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\obj\Debug\TesteImposto.Testes.csprojResolveAssemblyReference.cache
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\obj\Debug\TesteImposto.Testes.dll
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\obj\Debug\TesteImposto.Testes.pdb
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\bin\Debug\TesteImposto.exe
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\bin\Debug\TesteImposto.pdb
+C:\Users\darkstar\Documents\TesteDevAbacosNetshoes\C#\TesteImposto\TesteImposto.Testes\bin\Debug\TesteImposto.Testes.dll.config
